@@ -1,0 +1,5 @@
+class Venddor{
+String: nombre;
+Date: fechaNacimiento;
+string: cedula;
+}

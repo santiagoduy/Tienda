@@ -1,0 +1,7 @@
+class factura{
+
+Date: fechaFactura
+List<Producto> Productos;
+Double precio;
+
+}
